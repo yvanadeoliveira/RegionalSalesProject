@@ -77,9 +77,9 @@ The best BI dashboards use data to:
 ---
 
 ### 💡 Actionable Insights Examples:
-- Restocking a specific high-performing toy that is currently out of stock could **recover €4,500/month in lost revenue**  
-- The “Creative Play” category grew **12% MoM**, suggesting a seasonal promotion may be working  
-- One regional store’s revenue dropped **15% YoY**, driven largely by **two key out-of-stock products**—this needs urgent action  
+- Restocking a high-performing toy that is currently out of stock could help **recover significant lost revenue**  
+- A specific **product category** showed strong **MoM revenue growth**, indicating that a seasonal promotion may be driving sales  
+- One regional store experienced a **YoY revenue drop**, primarily due to **inventory shortages**—this highlights the need for urgent stock replenishment  
 
 ---
 
@@ -90,7 +90,31 @@ The best BI dashboards use data to:
 
 ---
 
+## 🧭 Usability  
+This dashboard was designed with interactivity in mind, making it easy for Regional Sales Managers to explore insights relevant to their specific regions and needs.
+
+**Slicers:**  
+Use the **Region**, **Month**, and **Year** slicers at the top to filter the entire dashboard. You can select multiple values or clear selections to reset the view.
+
+**Visual Interactions:**  
+All visuals are connected. For example, clicking on a product category bar will automatically update the revenue trend, product-level revenue, and lost revenue tables accordingly.
+
+**Callout Labels:**  
+Key insights — such as highest-performing categories, estimated revenue loss from out-of-stock items, and color-coded highlights — make it easy to spot areas needing attention.
+
+This ensures the dashboard not only presents data clearly but empowers users to take action through a smooth and intuitive experience.
+
+---
+
+## 📚 Background
+
+This project was completed as part of a **guided learning course from Maven Analytics** focused on Power BI dashboard design.
+
+---
+
 ## 📁 Files
-- `MavynToys_Dashboard.pbix`: Main Power BI report  
-- `dashboard_screenshot.png`: Dashboard overview  
 - `README.md`: This file  
+- `RegionalSalesDashboard_Overview.jpeg`: Overview of the dashboard  
+- `RegionalSalesDashboard_CiudaddeMexico.jpeg`: Example of a region with revenue loss  
+- `RegionalSalesDashboard_Monterrey.jpeg`: Example of a region with revenue growth  
+- `RegionalSalesDashboard_Guadalajara.jpeg`: Example of a different month slicer
