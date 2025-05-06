@@ -112,6 +112,17 @@ This project was completed as part of a **guided learning course from Maven Anal
 
 ---
 
+## 🤝 Connect or Comment
+
+Feel free to reach out, provide feedback, or ask questions about this project. I’m open to suggestions and improvements!
+
+- **Issues:** If you find a bug or have a suggestion, please feel free to open an issue.
+- **Pull Requests:** Contributions are always welcome! If you’d like to improve or extend this project, feel free to submit a pull request.
+- **Contact:** You can connect with me on [LinkedIn](www.linkedin.com/in/yvanadeoliveira).
+
+Looking forward to connecting!
+
+---
 ## 📁 Files
 - `README.md`: This file  
 - `RegionalSalesDashboard_Overview.jpeg`: Overview of the dashboard  
