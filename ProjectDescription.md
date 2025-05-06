@@ -74,6 +74,7 @@ The best BI dashboards use data to:
 - **Product-Level Insights:** Identify top and bottom performing products  
 - **Inventory Watchlist:** Discover out-of-stock products and how much revenue is potentially lost if they remain unavailable  
 
+![Overview](./RegionalSalesDashboard_Overview.jpg)
 ---
 
 ### 💡 Actionable Insights Examples:
